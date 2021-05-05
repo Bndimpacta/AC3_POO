@@ -1,0 +1,7 @@
+96482604:Estrutura de Dados
+96482604:Programacaoo Orientada a Objetos
+96482604:Sistemas Operacionais
+00221152:Programacaoo Orientada a Objetos
+00221152:Estrutura de Dados
+99809810:Programacaoo Orientada a Objetos
+99809810:Sistemas Operacionais
